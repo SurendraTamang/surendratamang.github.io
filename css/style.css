@@ -6,10 +6,13 @@
     color: brown;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 75px;
+    font-size: 45 px;
+    margin-top: 15px;
+    margin-bottom: 15px ;
 }
 
 .aboutme{
-    font-size: 36.5px;
-    color:burlywood;
+    font-size: 65 px;
+    color:black;
+    margin-bottom: 20px;
 }
